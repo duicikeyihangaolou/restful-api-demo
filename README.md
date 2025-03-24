@@ -1,7 +1,7 @@
 # Rest API Web Service
 
 - Github: <https://github.com/duicikeyihangaolou/restful-api-demo>
-- 同步到 Gitee: <https://gitee.com/wu-wen-xiang/restful-api-demo>
+- 同步到 Gitee: <https://gitee.com/duicikeyihangaolou/restful-api-demo>
 
 ## 本地调试
 
